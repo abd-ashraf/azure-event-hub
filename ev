@@ -1,0 +1,4 @@
+gp env EVENT_HUB_NAMESPACE="event-hub-300"
+gp env EVENT_HUB_NAME="eventhub"
+gp env STORAGE_ACCOUNT_NAME="eventhubsa300"
+gp env STORAGE_CONTAINER_NAME="container1"
